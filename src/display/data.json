@@ -1,0 +1,56 @@
+[
+    {
+        "free": "Free" ,
+        "desc": "Start building stunning websites — for free.",
+        "feature":"+ All features",
+        "plan":"USD / month",
+        "price":"0",
+       "button":"Choose Plan",
+        "plandesc":"+14-day free trial. Most Pro features available."
+    },
+    {
+        "free": "Pro" ,
+        "desc": "Start building stunning websites — for free.",
+        "feature":"+ All features",
+        "plan":"USD / month",
+        "price":"50",
+       "button":"Choose Plan",
+        "plandesc":"+14-day free trial. Most Pro features available."
+    },
+    {
+        "free": "Super" ,
+        "desc": "Start building stunning websites — for free.",
+        "feature":"+ All features",
+        "plan":"USD / month",
+        "price":"340",
+       "button":"Choose Plan",
+        "plandesc":"+14-day free trial. Most Pro features available."
+    },
+    {
+         
+        "desc": "Start building stunning websites — for free.",
+        "feature":"+ All features",
+        "plan":"USD / month",
+        "price":"340",
+       "button":"Choose Plan",
+        "plandesc":"+14-day free trial. Most Pro features available."
+    },
+    {
+        "free": "Super" ,
+        "desc": "Start building stunning websites — for free.",
+        "feature":"+ All features",
+        "plan":"USD / month",
+        "price":"340",
+       "button":"Choose Plan",
+        "plandesc":"+14-day free trial. Most Pro features available."
+    },
+    {
+        "free": "Super" ,
+        "desc": "Start building stunning websites — for free.",
+        "feature":"+ All features",
+        "plan":"USD / month",
+        "price":"340",
+       "button":"Choose Plan",
+        "plandesc":"+14-day free trial. Most Pro features available."
+    }
+]
