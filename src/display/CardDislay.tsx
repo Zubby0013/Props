@@ -1,35 +1,21 @@
 import React from "react"
 import styled from "styled-components"
 import Card from "../components/Card"
-import data from './data.json'
+import data from './data2.json'
 import Button from "../components/Button"
 import {AiFillMail} from "react-icons/ai"
-
+import CardTwo from "../components/CardTwo"
+import img from '../assets/shoe2.png' 
 
 export default function CardDisplay(){
     return(
         <>
         <Container>
+          {data?.map((props)=> (
+            <CardTwo key={props.id} title={props.title} percentage={props.percentage} cPrice={props.cPrice} oldPrice={props.oldPrice} discount={props.discount} img={props.productImg}/>
+          ))}
+       
           
-        {/* {
-            data?.map((props)=> (
-                <Card 
-                free={props.free} 
-                desc={props.desc}
-                feature={props.feature}
-                plan={props.plan}
-                price={props.price}
-                button={props.button}
-                plandesc={props.plandesc}
-                />
-            ))
-        } */}
-           
-           <Button text="Mail" icon={AiFillMail}/>
-           <Button text="Register" icon={AiFillMail}/>
-           <Button text="Mail" icon={AiFillMail}/>
-           <Button text="Mail" icon={AiFillMail}/>
-           <Button text="Mail" icon={AiFillMail}/>
         </Container>
         </>
     )

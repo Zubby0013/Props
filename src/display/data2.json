@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "productImg": "../assets/socks.png",
+        "title": "Long Jack Xxxl -60 Capsules",
+        "cPrice": 22000,
+        "oldPrice": 25500,
+        "percentage": 20,
+        "discount": 5500
+    },
+    {
+        "id":2,
+        "productImg": "../assets/socks.png",
+        "title": "Socks by Zubby",
+        "cPrice": 5000,
+        "oldPrice": 500,
+        "percentage": 10,
+        "discount": 500
+    },
+    {
+        "id": 3,
+        "productImg": "../assets/socks.png",
+        "title": "Socks by Zubby",
+        "cPrice": 5000,
+        "oldPrice": 500,
+        "percentage": 10,
+        "discount": 500
+    }
+]
